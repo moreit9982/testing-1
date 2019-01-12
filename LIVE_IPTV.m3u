@@ -1,1 +1,44 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png", group-title="MALAYSIA", TV1 SD 
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png", group-title="MALAYSIA", TV2 SD
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv3.png", group-title="MALAYSIA", TV3 SD
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQ5wZAe1eat4xtv5_bUXvUc)/dm/3/x6qp375/s/live-2.m3u8
+#EXTINF:0 tvg-id=NTV7 tvg-name=NTV7 tvg-logo="NTV7.png", group-title="MALAYSIA",NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+#EXTINF:0 tvg-id=8TV tvg-name=8TV tvg-logo="8TV.png", group-title="MALAYSIA",8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/ntv7.png", group-title="MALAYSIA", NTV7 SD
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU2UFryhaQqgsplJ75d5HXk)/dm/3/x6qp6ou/s/live-2.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/8tv.png", group-title="MALAYSIA", 8TV SD1
+https://stream-03.sv6.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXcj7XLEG7CDRDRyPzbpJwc)/dm/3/x6qud17/s/live-1.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/8tv.png", group-title="MALAYSIA", 8TV SD2
+https://stream-03.sv6.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXcj7XLEG7CDRDRyPzbpJwc)/dm/3/x6qud17/s/live-2.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv9.png", group-title="MALAYSIA", TV9 SD
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHa3bXJq33AAkw--4eQwF3nA)/dm/3/x6qqja6/s/live-0.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png", group-title="MALAYSIA",ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png", group-title="MALAYSIA", TVi SD
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png", group-title="MALAYSIA", 1NEWS SD
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png", group-title="MALAYSIA", Bernama TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png", tvg-name="AWANI",  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, tvg-id="EPG N/A", tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png", tvg-name="PARLIMEN TV",  group-title="MALAYSIA",PARLIMEN TV
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", RTM TV OKEY
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:0, group-title="MALAYSIA", ASTRO AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master.m3u8
+#EXTINF:0, group-title="MALAYSIA", BERNAMA NEWS CHANNEL
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
+#EXTINF:0, group-title="THAILAND",  MEDIACORP OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
